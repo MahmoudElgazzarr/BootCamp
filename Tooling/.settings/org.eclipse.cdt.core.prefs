@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1846684680/PATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1846684680/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1846684680/PATH/value=${MINGW_HOME}\\bin;${MSYS_HOME}\\bin;C\:/Program Files/Java/jre1.8.0_201/bin/server;C\:/Program Files/Java/jre1.8.0_201/bin;C\:/Program Files/Java/jre1.8.0_201/lib/amd64;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\MinGW\\mingw64\\bin;C\:\\Program Files\\Git\\cmd;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C\:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin;C\:\\Program Files\\TortoiseGit\\bin;C\:\\Users\\AVE-LAP-040\\AppData\\Local\\GitHubDesktop\\bin;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C\:\\MinGW\\bin;D\:\\tools\\eclipse-cpp-kepler-SR2-win32-x86_64\\eclipse;C\:\\MinGW\\bin
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1846684680/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1846684680/appendContributed=true

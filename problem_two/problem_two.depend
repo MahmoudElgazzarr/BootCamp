@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1549881072 source:d:\new\problem_two\binary_search.c
+	<stdio.h>
+	"Binary_Search.h"
+	"Bubble_Sort.h"
+
+1549876639 d:\new\problem_two\binary_search.h
+
+1549875337 d:\new\problem_two\bubble_sort.h
+
+1549876222 source:d:\new\problem_two\bubble_sort.c
+	"Bubble_Sort.h"
+
+1549891043 source:d:\new\problem_two\main.c
+	<stdio.h>
+	<stdlib.h>
+	"problem_two.h"
+
+1549848792 d:\new\problem_two\problem_two.h
+
+1549887996 source:d:\new\problem_two\problem_one.c
+	<stdio.h>
+	"problem_one.h"
+
+1549848792 d:\new\problem_two\problem_one.h
+
+1549891028 source:d:\new\problem_two\problem_two.c
+	<stdio.h>
+	"problem_two.h"
+	"Bubble_Sort.h"
+	"problem_one.h"
+

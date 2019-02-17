@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1549897334 source:d:\new\problem_four\main.c
+	<stdio.h>
+	<stdlib.h>
+	"problem_four.h"
+
+1549898160 source:d:\new\problem_four\problem_four.c
+	<stdio.h>
+	"problem_four.h"
+
+1549848788 d:\new\problem_four\problem_four.h
+

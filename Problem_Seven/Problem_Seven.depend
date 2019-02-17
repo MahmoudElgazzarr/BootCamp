@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1549900740 source:d:\new\problem_seven\problem_seven.c
+	<stdio.h>
+	"problem_seven.h"
+
+1549848788 d:\new\problem_seven\problem_seven.h
+
+1549900769 source:d:\new\problem_seven\main.c
+	<stdio.h>
+	<stdlib.h>
+	"problem_seven.h"
+

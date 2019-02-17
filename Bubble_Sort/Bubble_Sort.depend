@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1549881015 source:d:\new\bubble_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bubble_Sort.h"
+	"Binary_Search.h"
+
+1549881072 source:d:\new\bubble_sort\binary_search.c
+	<stdio.h>
+	"Binary_Search.h"
+	"Bubble_Sort.h"
+
+1549876639 d:\new\bubble_sort\binary_search.h
+
+1549875337 d:\new\bubble_sort\bubble_sort.h
+
+1549876222 source:d:\new\bubble_sort\bubble_sort.c
+	"Bubble_Sort.h"
+

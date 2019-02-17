@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1549978700 source:d:\new\problem_eight\problem_eight.c
+	<stdio.h>
+	"problem_eight.h"
+
+1549972705 d:\new\problem_eight\problem_eight.h
+
+1549972682 source:d:\new\problem_eight\main.c
+	<stdio.h>
+	<stdlib.h>
+	"problem_eight.h"
+

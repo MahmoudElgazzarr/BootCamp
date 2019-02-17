@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549377551 source:d:\new\func_detet_endians\main.c
+	<stdio.h>
+	<stdlib.h>
+

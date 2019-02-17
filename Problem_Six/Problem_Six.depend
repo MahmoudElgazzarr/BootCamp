@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1549900430 source:d:\new\problem_six\main.c
+	<stdio.h>
+	<stdlib.h>
+	"problem_six.h"
+
+1549848788 d:\new\problem_six\problem_six.h
+

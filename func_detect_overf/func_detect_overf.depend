@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549442950 source:d:\new\func_detect_overf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
